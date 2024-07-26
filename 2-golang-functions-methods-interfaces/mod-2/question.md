@@ -3,9 +3,9 @@ Let us assume the following formula for
 displacement s as a function of time t, acceleration a, initial velocity vo,
 and initial displacement so.
 
-```
+$
 s = (1/2)*(a*t^2) + v0*t + s0
-```
+$
 
 Write a program which first prompts the user
 to enter values for acceleration, initial velocity, and initial displacement.
